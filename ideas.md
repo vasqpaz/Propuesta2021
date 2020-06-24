@@ -52,8 +52,9 @@
 
 ## 2025: Jaime Forero (Colombia)
 
-  ### Comentarios
-   El rol de la coordinación es doble. 
+## Comentarios sobre el rol de coordinación
+  
+   El rol de la coordinación es doble: 
    
    * Interno al Andean ROAD los coordinadores deben supervisar la escritura de propuestas para financiar proyectos y desarrollarlos.
    Deben liderar reuniones periódicas internas a la colaboración para crear consensos e identificar oportunidades, estrategias y líneas de acción.
