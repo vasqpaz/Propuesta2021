@@ -61,4 +61,13 @@
    El éxito de los proyectos es responsabilidad de todas las personas en la colaboración, no solo de los coordinadores.
    * Externo al Andean ROAD los coordinadores deben estar en constante comunicación con la oficina central de la OAD en Suráfrica y con directivas de la IAU que puedan requir información. Así mismo son la cara visible ante cualquier contacto que se haga con instituciones y colaboradores externos.
    
+## Comentarios sobre la organización interna del Andean ROAD
+
+   Internamente ya no tendremos la división en Task Force 1 (Universidades), Task Force 2 (Escuelas) y Task Force 3 (Público).
+   Si se requiere un contacto con la Oficina de Educación (https://www.haus-der-astronomie.de/OAE) o la Oficina de Divulgación (https://www.iau.org/public/oao/) serán los coordinadores de turno quienes lo hagan.
+   
+## Comentarios sobre la colaboración con instituciones y personas externas al Andean ROAD.
+
+   Del Andean ROAD harán parte instituciones de Ecuador, Colombia, Perú y Venezuela. 
+   La propuesta para la continuación del Andean ROAD debe dejar en claro que esto no impedirá que se generen colaboraciones puntuales con otras instituciones y personas de otros países que no hayan sido parte de la propuesta original.
 
