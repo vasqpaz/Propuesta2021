@@ -5,7 +5,7 @@
   ### Objetivos medibles:
   - Formar X líderes de proyectos turísticos en conocimientos astronómicos.
   - Ayudar a dotar al menos Y centros turísticos con un telescopio.
-  - Colaborar en la formación de Z proyectos de astroturismo sostenibles.
+  - Colaborar en la formación de Z proyectos nuevos de astroturismo sostenibles.
   ### Comentarios:
   - Este proyecto también puede alimentarse del proyecto 4 en la medida que 
   utiliza la colaboración con arqueólogos, geólogos y antropólogos para "desmitificar" proyectos 
