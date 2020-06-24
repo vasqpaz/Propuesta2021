@@ -28,3 +28,12 @@
    - Generar una posibilidad de astroturismo gerenciado por las mismas comunidades indígenas.
    - Motivar el estudio de ciencias e ingeniería entre jóvenes de las comunidades indígenes.
    - Acercar a científicos (estudiantes y profesores) a conocimientos no-hegemónicos.
+   - Énfasis en la igualdad de género en el diseño, construcción y operación del observatorio.
+   
+   ### ODS relacionados   
+   - Igualdad de género.  
+   - Educación de calidad.
+   - Trabajo decente y crecimiento económico.
+   - Reducción de las desigualdades.  
+   - Paz, Justicia e Instituciones Sólidas (Promoción de sociedad justas e inclusivas.)
+   - Alianzas para lograr los objetivos.  
