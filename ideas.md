@@ -37,3 +37,16 @@
    - Reducción de las desigualdades.  
    - Paz, Justicia e Instituciones Sólidas (Promoción de sociedad justas e inclusivas.)
    - Alianzas para lograr los objetivos.  
+
+# Posible orden para la coordinación
+
+## 2021:
+
+## 2022:
+
+## 2023:
+
+## 2024:
+
+## 2025:
+
