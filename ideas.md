@@ -20,8 +20,8 @@
 
 ## 4. Observatorios astronómicos mixtos   
   Proyecto de diálogo intercultural con comunidades indígenas.
-    ### Objetivos medibles:
-    - Ayudar la creación de al menos tres observatorios mixtos (instrumentos de observación indígenas y no-indígenas).
+  ### Objetivos medibles:
+   - Ayudar la creación de al menos tres observatorios mixtos (instrumentos de observación indígenas y no-indígenas).
  
   ### Metas:
    - Crear un espacio para el diálogo intercultural alrededor de la astronomía que nos pueda llevar a evidenciar diferentes concepciones del desarrollo.
