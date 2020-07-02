@@ -48,7 +48,7 @@
 
 ## 2023: Angela Pérez, Germán Chaparro (Colombia)
 
-## 2024: Dennis Cazar (Ecuador)
+## 2024: Dennis Cazar (Ecuador), Nobar Baella (Perú)
 
 ## 2025: Jaime Forero (Colombia)
 
