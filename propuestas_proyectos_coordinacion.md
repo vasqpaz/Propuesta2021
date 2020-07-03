@@ -46,9 +46,9 @@
 
 ## 2022: Maria Isela Zeballos (Perú), Giovanni Pinzón (Colombia)
 
-## 2023: Angela Pérez, Germán Chaparro (Colombia)
+## 2023: Angela Pérez (Colombia), Germán Chaparro (Colombia)
 
-## 2024: Dennis Cazar (Ecuador), Nobar Baella (Perú)
+## 2024: Dennis Cazar (Ecuador), Nobar Baella (Perú), Cesar Valenzuela (Colombia)
 
 ## 2025: Jaime Forero (Colombia)
 
