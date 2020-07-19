@@ -50,7 +50,7 @@
 
 ## 2024: Dennis Cazar (Ecuador), Nobar Baella (Perú), Cesar Valenzuela (Colombia)
 
-## 2025: Jaime Forero (Colombia)
+## 2025: Jaime Forero (Colombia), Gladys Magris (Venezuela)
 
 ## Comentarios sobre el rol de coordinación
   
